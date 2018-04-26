@@ -1,0 +1,2 @@
+Base path: C:/Users/conor/Desktop/Editor/Data
+Cmd: getPlatforms
